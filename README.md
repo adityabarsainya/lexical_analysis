@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 Sentimental Analysis of a Text Document using a lexical Analyzer, the goal is to
 use a lexical analyzer to break the text document down into small chunks and
 use a corpus to tag each token with its P.O.S (part of speech) tag. Once the
@@ -7,13 +7,13 @@ is used to generate the parse tree for each sentence.Leaf nodes are then tagged
 as a word from the sentence and a P.O.S tag.
 
 
-#Output
+# Output
 The Characters from the novel are identified and an adjective list for each
 character is generated using regular expressions.Each Character is given a
 sentimental score on a continuous scale of -1 to 1.
 
 
-#Setup
+# Setup
 To satisfy the requirements to run the program follow the following steps:
 
 STEP-1: Open command prompt on your system.
